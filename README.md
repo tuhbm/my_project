@@ -36,8 +36,8 @@ yarn run lint
 1. Webpack
 2. Vue
 3. babel
-4. TypeScript
-5. RxJS
-6. moment
-7. sass
-8. Firebase
+4. TypeScript(추후예정)
+5. RxJS(추후예정)
+6. moment(추후예정)
+7. sass(추후예정)
+8. Firebase(추후예정)
