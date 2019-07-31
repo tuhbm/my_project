@@ -24,6 +24,20 @@ yarn run test
 ```
 yarn run lint
 ```
+## page 구성 계획
+1. 계산기
+2. TODO
+    2-1. 추후 칸반으로 변경
+3. 캘린더 
+4. 채팅
+5. 로그인, 로그아웃
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 사용예정 스텍
+1. Webpack
+2. Vue
+3. babel
+4. TypeScript
+5. RxJS
+6. moment
+7. sass
+8. Firebase
